@@ -26,4 +26,4 @@ This report synthesizes public reporting and threat intelligence from:
 
 ## Paper
 
-[Modern Infostealer Research Paper](./Modern_Infostealer_Research.pdf)
+[Identity-Centric Intrusion Research Paper](./Identity_Centric_Intrusion_Research.pdf)
