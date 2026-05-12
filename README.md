@@ -25,5 +25,5 @@ This report synthesizes public reporting and threat intelligence from:
 - and additional industry research sources.
 
 ## Paper
-See:
-`Modern_Infostealer_Research.pdf`
+
+[Modern Infostealer Research Paper](./Modern_Infostealer_Research.pdf)
